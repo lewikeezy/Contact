@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Contact Us Form</title>
+<title>Contact Us</title>
 
  <link rel="stylesheet" href="style.css">
 </head>
